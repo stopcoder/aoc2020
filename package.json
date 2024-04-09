@@ -1,0 +1,15 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@datastructures-js/linked-list": "^5.1.1",
+    "object-hash": "^2.2.0"
+  }
+}
